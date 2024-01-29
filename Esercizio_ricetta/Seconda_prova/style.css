@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+header img{
+    width: 200px;
+    margin: 20px 0;
+}
+
+nav{
+   border: 30px ;
+   border-top: solid 1px rgb(255, 179, 0) ;
+   padding: 15px;
+   background-color: antiquewhite;
+}
+nav span{
+    font-size: 1rem;
+    color: rgb(18, 96, 70);
+}
+
+nav span span{
+    font-weight: bold;
+    text-transform: uppercase;
+}
